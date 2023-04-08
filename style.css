@@ -1,0 +1,18 @@
+
+* {
+    font:roboto;
+}
+
+.flex-header-containers{
+    background-color: #1f2937;
+    display: flex;
+}
+
+.flex-header-container div{
+    flex: 2;
+}
+
+.logo{
+    flex: 1.5;
+    color:white;
+}
